@@ -1,0 +1,21 @@
+{
+  "name": "@scm/print-plugin",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for print supported devices ",
+  "main": "PrintPlugin.js",
+  "cordova": {
+    "id": "printplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defolly/printplugin.git"
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "scm",
+  "license": "MIT"
+}
